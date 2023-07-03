@@ -164,7 +164,7 @@ export default function Home({ onSave }) {
 
           <hr />
 
-          <h1 className="text-blue-500 text-center">Show 153 Tweets</h1>
+          <h1 className="text-blue-500 text-sm text-center">Show 153 Tweets</h1>
 
           <hr />
 

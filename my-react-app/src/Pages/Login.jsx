@@ -253,7 +253,7 @@ export default function Login() {
             </span>
           </div>
 
-          <h1 className=" pt-4 ml-12 ">
+          <h1 className=" pt-4 text-sm ml-12 ">
             Terms of Service Privacy Policy Cookie Policy <br /> Accessibility
             Ads info More... © 2023 X Corp.
           </h1>
